@@ -1,0 +1,16 @@
+07/22/2023 02:14:33 PM - LoggingDemo2 - INFO: ***method1logs***
+07/22/2023 02:14:33 PM - LoggingDemo2 - DEBUG: debug message
+07/22/2023 02:14:33 PM - LoggingDemo2 - INFO: info message
+07/22/2023 02:14:33 PM - LoggingDemo2 - WARNING: warn message
+07/22/2023 02:14:33 PM - LoggingDemo2 - ERROR: error message
+07/22/2023 02:14:33 PM - LoggingDemo2 - CRITICAL: critical message
+07/22/2023 02:14:33 PM - LoggingDemo2 - DEBUG: debug message
+07/22/2023 02:14:33 PM - LoggingDemo2 - INFO: info message
+07/22/2023 02:14:33 PM - LoggingDemo2 - WARNING: warn message
+07/22/2023 02:14:33 PM - LoggingDemo2 - ERROR: error message
+07/22/2023 02:14:33 PM - LoggingDemo2 - CRITICAL: critical message
+07/22/2023 02:14:33 PM - LoggingDemo2 - DEBUG: debug message
+07/22/2023 02:14:33 PM - LoggingDemo2 - INFO: info message
+07/22/2023 02:14:33 PM - LoggingDemo2 - WARNING: warn message
+07/22/2023 02:14:33 PM - LoggingDemo2 - ERROR: error message
+07/22/2023 02:14:33 PM - LoggingDemo2 - CRITICAL: critical message
